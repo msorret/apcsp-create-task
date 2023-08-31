@@ -23,6 +23,7 @@ while keep_adding == True:
         print("Your current ranking is ", restaurant_list)
 
     else: 
+        print("Okay, bye!")
         keep_adding = False
 
 
