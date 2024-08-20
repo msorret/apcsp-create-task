@@ -1,3 +1,4 @@
+# Create Task Example
 restaurant_list = ["Millie's Cafe", "True Food Kitchen", "HomeState", "Panda Express" ]
 
 def rank_restaurant(new_res):
